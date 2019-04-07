@@ -1,0 +1,47 @@
+/*Geral*/
+body{
+    background-color: rgb(248, 125, 193);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+a{
+    text-decoration: none;
+ }
+/*Fontes*/
+
+h1{color:#191970;
+font-size: 40px
+}
+h2 {
+    color: #000000;  
+    font-size: 25px;
+ }
+ /*Secao*/
+.secao-sobre{
+    background-color: rgb(202, 114, 182);
+    width: 600px;
+    margin: 0 auto;
+ }
+.conteudo-imagem{
+    margin-top: 80px;
+   border-radius: 100%;
+ }
+.sobre-conteudo {
+    /* font-family: 'Lato', sans-serif; */
+    text-align: center;
+ }
+.redes-sociais { 
+ text-align: center;
+ margin-top: 70px;
+ padding-bottom: 90px;
+}
+.redes-sociais img {
+    width: 87px;
+    height: 86px;
+    margin-left: 40px;
+    filter: grayscale(100%);
+ }
+ .redes-sociais img:hover{
+    filter: saturate(100%);
+   }
+   
